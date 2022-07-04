@@ -11,8 +11,8 @@ não foi realizado e precisa corrijir as senhas, se algum campo estiver em branc
 
 Tecnologias utilizadas:
 
-BootStrap
-Jquery
-CSS
-HTML
+BootStrap,
+Jquery,
+CSS,
+HTML,
 Javascript
