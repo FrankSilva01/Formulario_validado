@@ -8,3 +8,11 @@ Campos senha e confirmação de senha precisam ser iguais se não for é exibido
 
 Caso o usuário tentar enviar o formulário e a senha e confirmação de senha forem diferentes é exibido um alerta de que o cadastro 
 não foi realizado e precisa corrijir as senhas, se algum campo estiver em branco ou incompleto também é informado.
+
+Tecnologias utilizadas:
+
+BootStrap
+Jquery
+CSS
+HTML
+Javascript
